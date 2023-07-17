@@ -1,5 +1,6 @@
-# WIP 
+# 42 = 1 + (x² - 1600 = 0) + (sqrt(x² + y²) / sqrt(x² + y²)) 
 
+Still on WIP...
 ...
 
 ```
